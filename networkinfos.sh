@@ -37,7 +37,7 @@ scan_network() {
 }
 
 display_info() {
-    echo "Network infos"
+    echo "Aquilamap"
     echo -e "Made by MathieuA              \\             / /"
     echo -e "                          \\\\\\', ,      / //"
     echo -e "                           \\\\\\//,   _/ //,"
